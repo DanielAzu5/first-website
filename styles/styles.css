@@ -1,0 +1,49 @@
+.container{
+  display: inline;
+  margin-top: 20px;
+  
+}
+.rightpane{
+    padding: 1%;
+    float: right;
+    border: 10px gray solid ;
+    border-radius: 10px ;
+}
+.leftpane{
+    padding: 2%;
+    float: left;
+    width: 800px;
+    border: 5px black solid ;
+    border-radius:  10px;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+    height: 500px;
+}
+.first{
+    border: 2px solid blue;
+}
+header{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: large;
+    font-family: sans-serif;
+    text-shadow: grey;
+}
+.btn{
+  color: white;
+  padding: 15px 32px;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: black;
+  border: px solid goldenrod;
+  background-color: green;
+  margin-top: 10px;
+  margin-left: 60px;
+  font-size: 16px;
+}
+.btn:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+    
